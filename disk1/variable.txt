@@ -1,3 +1,6 @@
 This ia a variable file
 Variables are temporary
 Program consists of statement
+Variables are temporary constants
+to store values.
+
