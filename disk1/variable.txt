@@ -1,1 +1,2 @@
 This ia a variable file
+Variables are temporary
